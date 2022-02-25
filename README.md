@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jason2020)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jason2020&count_private=true)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jason2020&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->

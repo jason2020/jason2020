@@ -40,7 +40,8 @@ I'm a student @ UCLA studying Computer Science.
   <td>
     <img src="https://img.icons8.com/color/50/000000/mongodb.png" width="30px" height="30px"></img>
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="30px" height="30px"></img>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="30px" height="30px"></img>
+    <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" width="30px" height="30px"></img>
+    <img src="https://www.seekpng.com/png/detail/875-8753366_flask-framework-logo-svg.png" width="30px" height="30px"></img>
 </td>
 <td>
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="30px" height="30px"></img>

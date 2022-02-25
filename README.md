@@ -49,6 +49,7 @@ I'm a student @ UCLA studying Computer Science.
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="30px" height="30px"></img>
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" width="30px" height="30px"></img>
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="30px" height="30px"></img>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lisp_logo.svg/1200px-Lisp_logo.svg.png" width="30px" height="30px"></img>
 </td>
 </tr>
 </tbody>

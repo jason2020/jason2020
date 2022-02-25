@@ -40,7 +40,7 @@ I'm a student @ UCLA studying Computer Science.
   <td>
     <img src="https://img.icons8.com/color/50/000000/mongodb.png" width="30px" height="30px"></img>
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="30px" height="30px"></img>
-    <img src="https://icon2.cleanpng.com/20180417/irq/kisspng-firebase-cloud-messaging-computer-icons-google-clo-github-5ad5d3cde70706.9853526815239628299463.jpg" width="30px" height="30px"></img>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="30px" height="30px"></img>
     <img src="/flask.png" width="30px" height="30px"></img>
 </td>
 <td>

@@ -40,5 +40,3 @@ I'm a student @ UCLA studying Computer Science.
 </tbody>
 </table>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jason2020&count_private=true&show_icons=true&theme=dracula)
